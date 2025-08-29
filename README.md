@@ -84,4 +84,4 @@ node decode-zip.js example_base64.txt
 
 ## Licencia / License
 
-ISC
+GNU General Public License v3.0
